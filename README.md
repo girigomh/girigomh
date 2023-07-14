@@ -1,3 +1,9 @@
+<div>
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girigomh&theme=vision-friendly-dark&layout=compact&langs_count=10&hide_title=true"/>
+</div>
+
+<br>
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
