@@ -4,7 +4,7 @@
 </div>
 
 <br>
-<h2 align="center">Github Stats ⚡</h2>
+<h2 align="center"> Status</h2>
 <p align=center>
   <div align=center>
     <a href="#" title="Go to Source">
